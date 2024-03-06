@@ -1,0 +1,100 @@
+Write a program to print "Hello, World!" to the console.
+Create variables for your name, age, and favorite color, and print them to the console.
+Write a program that calculates the sum of two numbers and prints the result.
+Write a program that calculates the area of a rectangle using length and width provided by the user.
+Create a function that takes two parameters and returns their sum.
+Write a program that converts Celsius to Fahrenheit.
+Write a function that takes an array of numbers as input and returns the sum of all the numbers.
+Write a program that prints all numbers from 1 to 100, but for multiples of 3, print "Fizz" instead of the number, and for multiples of 5, print "Buzz". For numbers which are multiples of both 3 and 5, print "FizzBuzz".
+Write a function that takes a number as input and returns true if the number is even, otherwise false.
+Write a program that prints the Fibonacci sequence up to a certain number of terms specified by the user.
+Write a function that takes a string as input and returns the reverse of that string.
+Write a program that checks if a given number is prime or not.
+Write a function that takes an array of numbers as input and returns the largest number in the array.
+Write a program that prints the factorial of a number provided by the user.
+Write a function that takes two strings as input and returns true if they are anagrams, otherwise false.
+Write a program that finds the longest word in a sentence provided by the user.
+Write a function that takes an array of numbers as input and returns a new array with only the unique numbers.
+Write a program that converts a binary number to a decimal number.
+Write a function that takes a number as input and returns true if it is a palindrome, otherwise false.
+Write a program that prints the first 100 prime numbers.
+Write a function that takes a string as input and returns the number of vowels in that string.
+Write a program that sorts an array of numbers in ascending order.
+Write a function that takes an array of numbers as input and returns the average of those numbers.
+Write a program that checks if a given year is a leap year.
+Write a function that takes a number as input and returns the factorial of that number.
+Write a program that converts a decimal number to binary.
+Write a function that takes a string as input and returns true if it contains only digits, otherwise false.
+Write a program that prints the sum of all numbers from 1 to 1000.
+Write a function that takes an array of strings as input and returns the longest string.
+Write a program that prints the first n Fibonacci numbers.
+Write a function that takes a string as input and returns the number of words in that string.
+Write a program that checks if a given number is a perfect number.
+Write a function that takes an array of numbers as input and returns the sum of the squares of those numbers.
+Write a program that prints all Armstrong numbers between 1 and 1000.
+Write a function that takes a string as input and returns true if it is a pangram, otherwise false.
+Write a program that checks if a given string is a palindrome.
+Write a function that takes an array of numbers as input and returns the product of those numbers.
+Write a program that prints the sum of all odd numbers from 1 to 100.
+Write a function that takes a number as input and returns true if it is a power of two, otherwise false.
+Write a program that prints the first n prime numbers.
+Write a function that takes a string as input and returns true if it is a valid email address, otherwise false.
+Write a program that checks if a given string is an anagram of a palindrome.
+Write a function that takes an array of strings as input and returns a new array with the strings reversed.
+Write a program that prints the multiplication table of a number provided by the user.
+Write a function that takes a number as input and returns true if it is a happy number, otherwise false.
+Write a program that prints the sum of all even numbers from 1 to 100.
+Write a function that takes a string as input and returns true if it is a valid URL, otherwise false.
+Write a program that prints the ASCII value of a character provided by the user.
+Write a function that takes an array of numbers as input and returns the number with the most occurrences.
+Write a program that prints the sum of all numbers divisible by 3 or 5 from 1 to 1000.
+Write a function that takes a string as input and returns true if it is a valid phone number, otherwise false.
+Write a program that prints the sum of all numbers from 1 to 100 that are not divisible by 3.
+Write a function that takes an array of numbers as input and returns the second smallest number.
+Write a program that checks if a given string is a valid palindrome.
+Write a function that takes a number as input and returns true if it is a narcissistic number, otherwise false.
+Write a program that prints the reverse of a string provided by the user.
+Write a function that takes an array of numbers as input and returns the number with the least occurrences.
+Write a program that prints the sum of all prime numbers between 1 and 1000.
+Write a function that takes a string as input and returns true if it is a valid IPv4 address, otherwise false.
+Write a program that checks if a given string is a valid email address.
+Write a function that takes an array of numbers as input and returns the median of those numbers.
+Write a program that prints the sum of all numbers from 1 to 100 that are divisible by 7.
+Write a function that takes a string as input and returns true if it is a valid IPv6 address, otherwise false.
+Write a program that prints the reverse of a number provided by the user.
+Write a function that takes an array of numbers as input and returns the mode of those numbers.
+Write a program that prints the sum of all numbers from 1 to 100 that are not divisible by 5.
+Write a function that takes a string as input and returns true if it is a valid MAC address, otherwise false.
+Write a program that prints the sum of digits of a number provided by the user.
+Write a function that takes an array of numbers as input and returns the range of those numbers.
+Write a program that checks if a given number is a perfect square.
+Write a function that takes a string as input and returns true if it is a valid credit card number, otherwise false.
+Write a program that prints the sum of digits of a number provided by the user until the sum is a single digit.
+Write a function that takes an array of numbers as input and returns the number of prime numbers in the array.
+Write a program that checks if a given string is a valid URL.
+Write a function that takes a number as input and returns the number of trailing zeros in its factorial.
+Write a program that prints the sum of digits of a number provided by the user using recursion.
+Write a function that takes an array of numbers as input and returns the number of even numbers in the array.
+Write a program that checks if a given string is a valid IPv4 address.
+Write a function that takes a number as input and returns the number of divisors of that number.
+Write a program that prints the sum of digits of a number provided by the user using a loop.
+Write a function that takes an array of numbers as input and returns the number of odd numbers in the array.
+Write a program that checks if a given string is a valid IPv6 address.
+Write a function that takes a number as input and returns true if it is a Smith number, otherwise false.
+Write a program that prints the sum of digits of a number provided by the user using string manipulation.
+Write a function that takes an array of numbers as input and returns the number of numbers greater than a specified number.
+Write a program that checks if a given string is a valid MAC address.
+Write a function that takes a number as input and returns true if it is a Harshad number, otherwise false.
+Write a program that prints the sum of digits of a number provided by the user without using loops.
+Write a function that takes an array of numbers as input and returns the number of numbers less than a specified number.
+Write a program that checks if a given string is a valid credit card number.
+Write a function that takes a number as input and returns true if it is a palindrome number, otherwise false.
+Write a program that prints the sum of digits of a number provided by the user using the reduce method.
+Write a function that takes an array of numbers as input and returns the number of numbers equal to a specified number.
+Write a program that checks if a given string is a valid email address using regular expressions.
+Write a function that takes a number as input and returns the number of prime factors of that number.
+Write a program that prints the sum of digits of a number provided by the user using recursion and a helper function.
+Write a function that takes an array of numbers as input and returns the number of digits in the array.
+Write a program that checks if a given string is a valid URL using regular expressions.
+Write a function that takes a number as input and returns true if it is a strong number, otherwise false.
+Write a program that prints the sum of digits of a number provided by the user using recursion and no helper function.
